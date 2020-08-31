@@ -652,7 +652,6 @@
     .post-area {
       background: #fff;
       padding-bottom: 20px;
-      max-width: 800px;
     }
 
     /* 記事の画像
